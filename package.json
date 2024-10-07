@@ -1,0 +1,18 @@
+{
+  "name": "chatbot_with_nodejs",
+  "version": "1.0.0",
+  "description": "An AI Chatbot with Node.js, the OpenAi library and ChatGPT API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Farah Assaf",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.67.1",
+    "readline-sync": "^1.4.10"
+  }
+}
