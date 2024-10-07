@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An AI Chatbot with Node.js, the OpenAi library and ChatGPT API",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
